@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://werdina.github.io/atom.xml" rel="self"/>
   <link href="http://werdina.github.io/"/>
-  <updated>2013-05-26T22:09:52+01:00</updated>
+  <updated>2013-05-26T22:12:02+01:00</updated>
   <id>http://werdina.github.io/</id>
   <author>
     <name><![CDATA[werdina]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A place to keep notes]]></title>
+    <link href="http://werdina.github.io/blog/2013/05/26/a-place-to-keep-notes/"/>
+    <updated>2013-05-26T22:11:00+01:00</updated>
+    <id>http://werdina.github.io/blog/2013/05/26/a-place-to-keep-notes</id>
+    <content type="html"><![CDATA[<p>I am now transferring to a new job and may not have enough time to transfer all my notes from my local server to a VPS. My friend Keith suggested this so I shall see if this is a better way of doing it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Place to keep notes]]></title>
