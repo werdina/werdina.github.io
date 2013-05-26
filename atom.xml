@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
+  <title><![CDATA[My Notes]]></title>
   <link href="http://werdina.github.io/atom.xml" rel="self"/>
   <link href="http://werdina.github.io/"/>
-  <updated>2013-05-27T00:19:34+01:00</updated>
+  <updated>2013-05-27T00:29:29+01:00</updated>
   <id>http://werdina.github.io/</id>
   <author>
     <name><![CDATA[werdina]]></name>
